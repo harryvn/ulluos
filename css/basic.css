@@ -48,7 +48,7 @@ body{
     font-size:1em;
   }
   
-  .btn{
+  #btn1{
     background:#2ecc71;
     width:125px;
     padding-top:5px;
@@ -65,7 +65,7 @@ body{
     font-size:0.8em;
   }
   
-  .btn:hover{
+  #btn1:hover{
     background:#2CC06B; 
   }
   
